@@ -1,0 +1,24 @@
+Sara Khan
+Hyderabad, India | sara.khan.netsec@email.com | +91-98xxxxxx03 | linkedin.com/in/sarakhan-net
+
+SUMMARY
+Network security engineer with CCNA and 1 year of experience administering firewalls
+and VPNs. Strong grasp of TCP/IP fundamentals and hands-on FortiGate/Palo Alto exposure.
+Open to SOC and network security roles.
+
+EDUCATION
+B.E. Electronics and Communication, Osmania University, 2024
+
+EXPERIENCE
+Network Security Engineer, Netrasec Solutions (2024 - Present)
+- Configured and maintained FortiGate and Palo Alto firewalls for client networks
+- Managed site-to-site VPNs and troubleshot connectivity issues across 20+ branch sites
+- Reviewed firewall logs for anomalous traffic and reported suspicious patterns
+- Assisted in patching and hardening Linux servers
+
+SKILLS
+FortiGate, Palo Alto, VPN, TCP/IP, DNS, firewalls, Linux syslog, basic PowerShell,
+network troubleshooting
+
+CERTIFICATIONS
+CCNA (Certified)

@@ -1,0 +1,24 @@
+Priya Sharma
+Bengaluru, India | priya.sharma.sec@email.com | +91-98xxxxxx01 | linkedin.com/in/priyasharma-sec
+
+SUMMARY
+Cybersecurity graduate with 6 months of hands-on SOC internship experience. Comfortable
+with Splunk dashboards, Windows Event Log triage, and MITRE ATT&CK mapping. Currently
+pursuing CompTIA Security+.
+
+EDUCATION
+B.E. Computer Science, RV College of Engineering, 2025
+
+EXPERIENCE
+SOC Intern, ClearTrail Cyber Defense (Jan 2025 - Jun 2025)
+- Monitored Splunk SIEM dashboards for a 500-endpoint environment, triaging ~40 alerts/day
+- Investigated phishing and brute-force alerts, escalated 15+ confirmed incidents to L2
+- Documented incident tickets and mapped alerts to MITRE ATT&CK techniques
+- Wrote small Python scripts to parse Windows Event Logs for suspicious login patterns
+
+SKILLS
+Splunk, Windows Event Logs, Linux syslog, MITRE ATT&CK, Python (scripting), TCP/IP,
+DNS basics, phishing analysis, incident documentation
+
+CERTIFICATIONS
+CompTIA Security+ (in progress, exam scheduled)

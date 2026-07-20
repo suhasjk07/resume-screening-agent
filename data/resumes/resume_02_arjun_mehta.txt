@@ -1,0 +1,21 @@
+Arjun Mehta
+Pune, India | arjun.mehta.dev@email.com | +91-98xxxxxx02
+
+SUMMARY
+Full-stack web developer with 2 years of experience building React and Node.js
+applications. Looking to explore new opportunities in tech.
+
+EDUCATION
+B.Tech Information Technology, Pune Institute of Computer Technology, 2023
+
+EXPERIENCE
+Software Engineer, PixelWorks Studio (2023 - Present)
+- Built and maintained React/Node.js e-commerce applications
+- Integrated payment gateways and third-party REST APIs
+- Wrote unit tests using Jest, deployed via Docker and AWS EC2
+
+SKILLS
+JavaScript, React, Node.js, MongoDB, Docker, AWS EC2, Git, REST APIs
+
+CERTIFICATIONS
+AWS Certified Cloud Practitioner

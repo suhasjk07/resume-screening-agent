@@ -1,0 +1,32 @@
+Job Title: SOC L1 Analyst (Security Operations Center)
+Location: Bengaluru, India (Hybrid)
+Experience: 0-2 years
+
+About the Role
+We are hiring a Tier-1 Security Operations Center (SOC) Analyst to monitor, triage, and
+respond to security alerts across our enterprise environment. This is a 24x7 shift-based
+role suited to someone who wants hands-on exposure to real-world threat detection and
+incident response.
+
+Required Skills
+- SIEM tools: Splunk, Microsoft Sentinel, or QRadar
+- Strong understanding of networking fundamentals (TCP/IP, DNS, VPN, firewalls)
+- Familiarity with the MITRE ATT&CK framework
+- Log analysis and alert triage (Windows Event Logs, Linux syslog)
+- Basic scripting for automation (Python or PowerShell)
+- Understanding of common attack vectors: phishing, malware, brute force, lateral movement
+- Knowledge of endpoint detection tools (EDR) such as CrowdStrike or Microsoft Defender
+
+Preferred Qualifications
+- CompTIA Security+, CCNA, or equivalent certification (in progress is acceptable)
+- Exposure to firewall platforms such as FortiGate or Palo Alto
+- Prior internship or lab experience with incident response playbooks
+- Familiarity with KQL (Kusto Query Language) for Sentinel-based hunting
+- Bachelor's degree in Computer Science, IT, Cybersecurity, or a related field
+
+Responsibilities
+- Monitor SIEM dashboards and triage incoming security alerts
+- Perform initial investigation and escalate confirmed incidents to L2/L3
+- Document findings and maintain accurate incident tickets
+- Follow standard operating procedures (SOPs) and escalation playbooks
+- Assist with report generation for weekly security posture reviews

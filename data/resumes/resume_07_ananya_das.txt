@@ -1,0 +1,21 @@
+Ananya Das
+Kolkata, India | ananya.das.cyber@email.com | +91-98xxxxxx07 | linkedin.com/in/ananyadas-cyber
+
+SUMMARY
+Cybersecurity fresher with strong theoretical foundation and TryHackMe/CTF experience.
+No formal work experience yet but highly self-taught in SIEM concepts and log analysis.
+
+EDUCATION
+B.Tech Computer Science (Cybersecurity specialization), KIIT University, 2025
+
+PROJECTS
+- Completed 40+ TryHackMe rooms covering SOC Level 1 learning path
+- Built a home lab with Splunk Free and simulated Windows Event Log ingestion
+- Practiced alert triage using sample MITRE ATT&CK-mapped datasets
+
+SKILLS
+Splunk (self-taught), Windows Event Logs, MITRE ATT&CK, basic networking (TCP/IP, DNS),
+Python basics, Linux fundamentals
+
+CERTIFICATIONS
+CompTIA Security+ (not yet started)

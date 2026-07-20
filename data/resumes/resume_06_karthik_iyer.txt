@@ -1,0 +1,18 @@
+Karthik Iyer
+Chennai, India | karthik.iyer.data@email.com | +91-98xxxxxx06
+
+SUMMARY
+Data analyst with 3 years of experience in business intelligence and reporting.
+Proficient in SQL, Power BI, and Python for data analysis.
+
+EDUCATION
+B.Sc. Statistics, Madras Christian College, 2021
+
+EXPERIENCE
+Data Analyst, InsightMetrics Pvt Ltd (2021 - Present)
+- Built Power BI dashboards for sales and operations teams
+- Wrote complex SQL queries to extract and transform data from multiple sources
+- Automated monthly reporting using Python (pandas)
+
+SKILLS
+SQL, Power BI, Python (pandas, numpy), Excel, data visualization, ETL

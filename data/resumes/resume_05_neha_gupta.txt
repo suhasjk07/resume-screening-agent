@@ -1,0 +1,27 @@
+Neha Gupta
+Bengaluru, India | neha.gupta.soc@email.com | +91-98xxxxxx05 | linkedin.com/in/nehagupta-soc
+
+SUMMARY
+Recent B.E. graduate in AI & Data Science with completed hands-on training in CCNA,
+CCNP, and CCIE Security across Cisco, FortiGate, Palo Alto, and Linux platforms. Built
+a MITRE ATT&CK-mapped SOC simulation platform as a personal project. Actively pursuing
+SOC L1 analyst roles.
+
+EDUCATION
+B.E. Artificial Intelligence and Data Science, VTU, 2025
+
+TRAINING
+Networkers Home - 8-month intensive program covering CCNA, CCNP, CCIE Security,
+FortiGate, Palo Alto, and Linux administration
+
+PROJECTS
+SOC Simulation Platform (Personal Project)
+- Built a MITRE ATT&CK-mapped SOC/Red Team simulation with alert triage workflows
+- Simulated Splunk-style dashboards and incident escalation logic
+
+SKILLS
+CCNA, CCNP concepts, CCIE Security concepts, FortiGate, Palo Alto, Linux, MITRE
+ATT&CK, TCP/IP, DNS, VPN, firewalls, Python basics, phishing analysis
+
+CERTIFICATIONS
+CCNA (exam pending)

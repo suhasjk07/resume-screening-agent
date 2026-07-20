@@ -1,0 +1,15 @@
+
+=== RANKED SHORTLIST ===
+ 1. Mohammed Ali         score= 34.63  (tfidf= 21.1%  skills= 54.9%  exp=1.5y)
+ 2. Priya Sharma         score= 25.31  (tfidf= 17.8%  skills= 36.6%  exp=0.0y)
+ 3. Neha Gupta           score= 22.76  (tfidf= 12.6%  skills= 38.1%  exp=0.0y)
+ 4. Sara Khan            score= 20.18  (tfidf= 10.1%  skills= 35.3%  exp=1.0y)
+ 5. Ananya Das           score= 17.58  (tfidf= 10.5%  skills= 28.2%  exp=0.0y)
+ 6. Divya Reddy          score=  4.04  (tfidf=  4.9%  skills=  2.8%  exp=0.0y)
+ 7. Karthik Iyer         score=  2.67  (tfidf=  2.6%  skills=  2.8%  exp=3.0y)
+ 8. Arjun Mehta          score=  0.37  (tfidf=  0.6%  skills=  0.0%  exp=2.0y)
+ 9. Vikram Singh         score=  0.35  (tfidf=  0.6%  skills=  0.0%  exp=4.0y)
+10. Rahul Verma          score=  0.25  (tfidf=  0.4%  skills=  0.0%  exp=2.0y)
+
+Wrote 10 ranked candidates to output/ranked_candidates.csv and output/ranked_candidates.json
+

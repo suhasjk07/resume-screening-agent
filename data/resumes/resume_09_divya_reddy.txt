@@ -1,0 +1,22 @@
+Divya Reddy
+Bengaluru, India | divya.reddy.grc@email.com | +91-98xxxxxx09 | linkedin.com/in/divyareddy-grc
+
+SUMMARY
+Information security graduate with internship experience in GRC (Governance, Risk,
+and Compliance) and exposure to SOC tools during coursework. ISO 27001 aware.
+
+EDUCATION
+M.Sc. Information Security, Christ University, 2024
+
+EXPERIENCE
+GRC Intern, SecureAudit Consulting (2024)
+- Assisted in ISO 27001 gap assessments for two mid-size clients
+- Reviewed access control policies and helped draft risk registers
+- Coursework project: built alert correlation rules using a Splunk trial instance
+
+SKILLS
+ISO 27001, risk assessment, Splunk (academic exposure), basic networking, MITRE
+ATT&CK (theoretical), documentation, Excel
+
+CERTIFICATIONS
+ISO 27001 Foundation (Certified)

@@ -1,0 +1,25 @@
+Mohammed Ali
+Bengaluru, India | mohammed.ali.soc@email.com | +91-98xxxxxx10 | linkedin.com/in/mohammedali-soc
+
+SUMMARY
+SOC Analyst with 1.5 years of production experience monitoring enterprise environments
+using Microsoft Sentinel and CrowdStrike EDR. Strong KQL query writing and incident
+response playbook execution.
+
+EDUCATION
+B.E. Computer Science, MVJ College of Engineering, 2023
+
+EXPERIENCE
+SOC L1 Analyst, CyberShield MSSP (2023 - Present)
+- Monitored Microsoft Sentinel workspace across 12 client tenants, triaging 60+ alerts/day
+- Wrote and refined KQL queries for threat hunting and false-positive reduction
+- Investigated malware and lateral movement alerts using CrowdStrike EDR
+- Escalated confirmed incidents per SOP and maintained ticket documentation in ServiceNow
+- Mapped recurring alert patterns to MITRE ATT&CK techniques for monthly reporting
+
+SKILLS
+Microsoft Sentinel, KQL, CrowdStrike, MITRE ATT&CK, Windows Event Logs, Linux syslog,
+PowerShell scripting, TCP/IP, DNS, VPN, phishing and malware triage
+
+CERTIFICATIONS
+CompTIA Security+ (Certified)
