@@ -28,7 +28,7 @@ Output: ranked_candidates.csv + ranked_candidates.json (+ console summary)
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/suhasjk07/resume-screening-agent
 cd resume-screening-agent
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
